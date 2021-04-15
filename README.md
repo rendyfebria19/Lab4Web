@@ -30,3 +30,19 @@
 
 - tampilan Clearfix Element telah terbaca oleh html![2b](https://user-images.githubusercontent.com/59887134/114897901-e1979980-9e3b-11eb-9614-cd82a08c79c4.png)
 
+3. Membuat kerangka layout home pada html![3a](https://user-images.githubusercontent.com/59887134/114898650-82865480-9e3c-11eb-9193-a1373b10d456.png)
+
+- Layout Sederhana berhasil ditampilkan pada browser![3b](https://user-images.githubusercontent.com/59887134/114898775-9c279c00-9e3c-11eb-9210-9261e1ee7349.png)
+
+4. Menambahkan CSS pada navigasi layout home![4a](https://user-images.githubusercontent.com/59887134/114899070-dbee8380-9e3c-11eb-9790-a22b0db8cdde.png)
+
+- Layout home berhasil ditambahkan dengan CSS sehingga lebih berwarna![4b](https://user-images.githubusercontent.com/59887134/114899365-19531100-9e3d-11eb-9ef5-798c5b17b056.png)
+
+5. Menambahkan HERO Panel pada html ![5a](https://user-images.githubusercontent.com/59887134/114899924-97171c80-9e3d-11eb-9263-165dbf86c7ba.png)
+
+- menambahkan CSS Pada hero panel![5b](https://user-images.githubusercontent.com/59887134/114900282-ebba9780-9e3d-11eb-8456-2a3a912408f6.png)
+
+- hero panel telah ditambahkan pada browser berisi hello world dan deskipsi![5c](https://user-images.githubusercontent.com/59887134/114900305-f2490f00-9e3d-11eb-8cb4-f14ccb515b43.png)
+
+
+
