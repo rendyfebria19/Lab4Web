@@ -44,5 +44,13 @@
 
 - hero panel telah ditambahkan pada browser berisi hello world dan deskipsi![5c](https://user-images.githubusercontent.com/59887134/114900305-f2490f00-9e3d-11eb-8cb4-f14ccb515b43.png)
 
+6 Membuat sidebar widget pada HTML![6b](https://user-images.githubusercontent.com/59887134/114900739-5c61b400-9e3e-11eb-8bfe-c73c720cb7cb.png)
+
+- sidebar widget berhasil ditambahkan yang berisi widget header link dan widget text![6a](https://user-images.githubusercontent.com/59887134/114900876-7ac7af80-9e3e-11eb-9f16-dd179e450185.png)
+
+7. Membuat pada browser!![6a](https://user-images.githubusercontent.com/59887134/114902623-30dfc900-9e40-11eb-9014-938366de2d51.png)
+
+
+8. 
 
 
