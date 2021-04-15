@@ -48,9 +48,18 @@
 
 - sidebar widget berhasil ditambahkan yang berisi widget header link dan widget text![6a](https://user-images.githubusercontent.com/59887134/114900876-7ac7af80-9e3e-11eb-9f16-dd179e450185.png)
 
-7. Membuat pada browser!![6a](https://user-images.githubusercontent.com/59887134/114902623-30dfc900-9e40-11eb-9014-938366de2d51.png)
+7. Membuat footer pada browser!![6a](https://user-images.githubusercontent.com/59887134/114902623-30dfc900-9e40-11eb-9014-938366de2d51.png)
 
 
-8. 
+8. Menambahkan element lainnya pada main content ![7a](https://user-images.githubusercontent.com/59887134/114902980-8916cb00-9e40-11eb-9b48-cc9fd244677e.png)
+
+- main content berhasil ditambahkan pada browser![7b](https://user-images.githubusercontent.com/59887134/114903072-9e8bf500-9e40-11eb-85ee-47ec88c618f9.png)
+
+9. Selanjutnya yang terakhir menambahkan content articel pada HTML ![8a](https://user-images.githubusercontent.com/59887134/114903220-c9764900-9e40-11eb-882b-fdf7eebda151.png)
+
+- content articel berhasil ditambahkan pada browser ![8b](https://user-images.githubusercontent.com/59887134/114903529-19551000-9e41-11eb-99fe-8a36bf05dfe9.png)
+
+
+
 
 
