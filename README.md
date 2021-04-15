@@ -1,8 +1,8 @@
 # Lab4Web
 
--Nama : Rendy Febrian Mangihut
--Nim : 311910612
--Kelas : TI 19.A.3
+- Nama : Rendy Febrian Mangihut
+- Nim : 311910612
+- Kelas : TI 19.A.3
 
 # Pertanyaan dan tugas
 
